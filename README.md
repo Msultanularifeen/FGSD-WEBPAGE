@@ -8,12 +8,12 @@ To get started with the FGSD project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Msultanularifeen/WEB-Projects
    ```
 
 2. Navigate to the project directory:
    ```
-   cd FGSD-main
+   cd WEB-Projects-main
    ```
 
 3. Open the project in your preferred code editor.
